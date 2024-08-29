@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/malikribeiro/malikribeiro/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Contact</h1>
 
 ###
 

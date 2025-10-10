@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Malik Ribeiro Mourad</h1>
-<h3 align="center">Data Analyst transitioning into Front-end Development — based in Curitiba, Brazil.</h3>
+<h1 align="center">Olá 👋, eu sou Malik Ribeiro Mourad</h1>
+<h3 align="center">Analista de Dados em transição para Desenvolvimento Front-end — baseado em Curitiba, Brasil.</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malikribeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -9,19 +9,19 @@
   <img src="https://streak-stats.demolab.com?user=malikribeiro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+---
 
-<h3 align="left">About me</h3>
+<h3 align="left">Sobre Mim</h3>
 <p align="left">
-I'm Malik — I work with data and I love building useful interfaces. Currently focusing on front-end skills while keeping strong practice in data engineering and analytics (Power BI, SQL, Python).
+Sou Malik, um profissional apaixonado por dados e pela construção de interfaces úteis e intuitivas. Minha jornada profissional começou com uma sólida base em análise e engenharia de dados, utilizando ferramentas como **Power BI**, **SQL** e **Python** para extrair insights valiosos e otimizar processos. Atualmente, estou expandindo minhas habilidades e conhecimentos no desenvolvimento **Front-end**, com foco em criar experiências de usuário excepcionais e aplicações web dinâmicas. Acredito que a combinação de uma mente analítica com a capacidade de desenvolver soluções interativas é fundamental para impulsionar a inovação e resolver desafios complexos no mundo digital.
 </p>
 
-###
+---
 
-<h3 align="left">Main Languages & Tech</h3>
-<p align="center">Kotlin • Java • Python • C# • SQL (MySQL/PostgreSQL) • PHP • HTML • CSS • JavaScript • Git • VSCode • Power BI • Figma</p>
-
-###
+<h3 align="left">Linguagens e Tecnologias Principais</h3>
+<p align="center">
+  Minha stack tecnológica abrange diversas linguagens e ferramentas, permitindo-me atuar em diferentes frentes de desenvolvimento e análise:
+</p>
 
 <div align="center">
   <!-- Row 1: core web / languages -->
@@ -46,10 +46,14 @@ I'm Malik — I work with data and I love building useful interfaces. Currently 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
-###
+---
 
-<h3 align="left">Tools & Others</h3>
+<h3 align="left">Ferramentas e Outros</h3>
 <p align="left">
+  Além das linguagens, utilizo um conjunto de ferramentas que otimizam meu fluxo de trabalho e colaboração:
+</p>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode" />
@@ -63,9 +67,9 @@ I'm Malik — I work with data and I love building useful interfaces. Currently 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="28" alt="canva" />
 </p>
 
-###
+---
 
-<h1 align="center">Contact</h1>
+<h1 align="center">Conecte-se Comigo</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/malikribeiro/" target="_blank">
@@ -82,4 +86,13 @@ I'm Malik — I work with data and I love building useful interfaces. Currently 
   </a>
 </div>
 
-###
+---
+
+<div align="center">
+  <a href="https://malikribeiro.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Site%20Pessoal-333333?style=for-the-badge&logo=github&logoColor=white" alt="Meu Site Pessoal"/>
+  </a>
+</div>
+
+---
+

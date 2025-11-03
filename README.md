@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Malik Ribeiro Mourad</h1>
-<h3 align="center">Analista de Dados | Mercado Livre de Energia | Automação (Python) | Dashboards (Power BI & Streamlit) | Curitiba, BR</h3>
+<h3 align="center">Analista de Dados | Mercado Livre de Energia | Automação (Python) | Dashboards (Power BI & Streamlit)</h3>
 
 ---
 

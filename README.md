@@ -22,8 +22,10 @@
   
   ---
   
-  🔭 **Atualmente trabalhando em:** Automação de processos (Gestão de Agentes).
+  🔭 **Atualmente trabalhando em:** Automação de processos (Gestão de Agentes).  
+  
   🌱 **Aprendendo:** Arquiteturas Mobile avançadas e Integração com LLMs (Gemini/OpenAI).  
+  
   ⚡ **Hobbie:** Criação de logos e interfaces (UI/UX).
   
   ---

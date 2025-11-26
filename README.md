@@ -51,8 +51,30 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/MalikRibeiro">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Malik Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dracula" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MalikRibeiro/MalikRibeiro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/malikribeiro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:malik_ribeiromourad@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/malikribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://malikribeiro.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>

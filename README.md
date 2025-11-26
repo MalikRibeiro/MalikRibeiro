@@ -29,52 +29,51 @@
   ---
 </div>
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+<h2 align="center">🛠️ Tech Stack & Ferramentas</h2>
 <div align="center">
+  <!-- Skill Icons - Linha 1: Linguagens e Frameworks -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,java,cs,php,js,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,kotlin,java,cs,php,js,html,css,androidstudio,vscode&perline=10" />
   </a>
   <br/>
-  <br/>
+  <!-- Skill Icons - Linha 2: Bancos de Dados, Ferramentas e Outros -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,androidstudio,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,figma,powerbi,streamlit,jetpackcompose,gemini&perline=10" />
   </a>
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
 </div>
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 <br/>
 
+<h2 align="center">🐍 Contribuições Anuais (Snake)</h2>
 <div align="center">
+  <!-- O workflow de cobrinha deve ser mantido -->
   <img src="https://raw.githubusercontent.com/MalikRibeiro/MalikRibeiro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
 
+<h2 align="center">🔗 Conecte-se Comigo</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/malikribeiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:malik_ribeiromourad@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="mailto:malik_ribeiromourad@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/malikribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://malikribeiro.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </div>
+
 <br/>

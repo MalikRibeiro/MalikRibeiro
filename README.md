@@ -1,20 +1,20 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Malik+Mourad;Data+Analyst+%26+Developer;Python+%7C+Kotlin+%7C+Power+BI;Energy+Market+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Malik+Mourad;Data+Analyst+%26+Automation;Python+%7C+Power+BI+%7C+SQL;Energy+Market+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>Transformando dados em decisões e ideias em código.</h3>
+  <h3>Transformando dados brutos em inteligência de negócio.</h3>
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-     Sou um profissional baseado em <b>Curitiba/PR</b>, atuando na interseção entre o <b>Mercado Livre de Energia</b> e a tecnologia. 
+     Sou um profissional baseado em <b>Curitiba/PR</b>, atuando estrategicamente no <b>Mercado Livre de Energia</b>.
      <br>
-     Meu foco é criar soluções que eliminam o trabalho manual através de automação (RPA) e inteligência de dados, enquanto desenvolvo produtos digitais modernos no ecossistema Mobile.
+     Minha missão é garantir a integridade da informação e agilidade na tomada de decisão. Desenvolvo <b>robôs de extração automática</b> e scripts de <b>conferência de dados entre sistemas</b> para eliminar erros manuais, transformando esses dados em Dashboards executivos no <b>Power BI</b>.
   </p>
 </div>
 
@@ -22,9 +22,11 @@
   
   ---
   
-  🔭 **Atualmente trabalhando em:** Automação de processos (Gestão de Agentes).  
-  🌱 **Aprendendo:** Arquiteturas Mobile avançadas e Integração com LLMs (Gemini/OpenAI).  
-  ⚡ **Hobbie:** Criação de logos e interfaces (UI/UX).
+  🔭 **Foco Profissional:** Automação de processos (ETL), Validação de dados entre sistemas e Business Intelligence.
+  
+  🌱 **Estudando:** Engenharia de Dados e Integração de Agentes de IA (Gemini/OpenAI) em fluxos de trabalho.
+  
+  ⚡ **Hobbie/Estudos:** Desenvolvimento Mobile com Kotlin e UI/UX Design.
   
   ---
 </div>
@@ -32,7 +34,7 @@
 <h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kotlin,java,cs,php,js,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,html,css&perline=8" />
   </a>
   <br/>
   <br/>
@@ -42,8 +44,8 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Data_Automation-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automation"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
   <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
 </div>
 
@@ -54,7 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21&hide_border=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
-
 
 <br/>
 

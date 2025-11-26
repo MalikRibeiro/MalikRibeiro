@@ -51,9 +51,10 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=21&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
+
 
 <br/>
 

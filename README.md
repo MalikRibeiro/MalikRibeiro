@@ -49,10 +49,10 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikRibeiro&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikRibeiro&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
 </div>
 
 <br/>

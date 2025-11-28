@@ -34,7 +34,7 @@
 <h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,html,css&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,cs,php,kotlin,js,html,css&perline=9" />
   </a>
   <br/>
   <br/>
@@ -48,8 +48,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
 </div>
-
-<br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">

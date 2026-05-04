@@ -4,10 +4,6 @@
 </a>
 </div>
 
-<div align="center">
-  <h3>🚀 Especialista em transformar dados complexos em decisões estratégicas.</h3>
-</div>
-
 <br/>
 
 ## 👨‍💻 Sobre Mim

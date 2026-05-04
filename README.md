@@ -43,7 +43,7 @@ Profissional com sólida trajetória no **Mercado Livre de Energia (ACL)**, foca
 ## 🚀 Projetos de Impacto
 *   **[Simulador de Risco PLD Monte Carlo](https://github.com/MalikRibeiro):** Ferramenta avançada para análise de risco no setor elétrico, utilizando modelagem estatística para prever variações de preço.
 *   **[Portal de Automação DGCA](https://github.com/MalikRibeiro):** Migração de ferramentas locais para uma infraestrutura cloud centralizada em Streamlit, otimizando o fluxo de trabalho de todo o departamento.
-*   **[RPA de Envio de Relatórios CCEE](https://github.com/MalikRibeiro):** Automação total do ciclo de vida de relatórios regulatórios via Microsoft Graph API, eliminando 100% da intervenção manual no envio de e-mails críticos[cite: 1].
+*   **[RPA de Envio de Relatórios CCEE](https://github.com/MalikRibeiro):** Automação total do ciclo de vida de relatórios regulatórios via Microsoft Graph API, eliminando 100% da intervenção manual no envio de e-mails críticos.
 
 ---
 

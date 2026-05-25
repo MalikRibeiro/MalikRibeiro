@@ -7,11 +7,11 @@
 <br/>
 
 ## 👨‍💻 Sobre Mim
-Profissional com sólida trajetória no **Mercado Livre de Energia (ACL)**, focado na otimização de processos críticos através de **Automação (RPA)** e **Business Intelligence**. Atualmente na **Electra Energy**, desenvolvo soluções de ponta para mitigação de riscos e integridade de dados regulatórios (CCEE).
+Profissional com trajetória no **Mercado Livre de Energia (ACL)**, focado na otimização de processos críticos através de **Automação (RPA)** e **Business Intelligence**. Atualmente desenvolvo soluções para mitigação de riscos e integridade de dados regulatórios (CCEE).
 
 *   **Foco Estratégico:** Redução de erros operacionais através de robôs de extração e validação automática.
 *   **Business Intelligence:** Criação de Dashboards executivos que traduzem dados brutos em inteligência de mercado.
-*   **Stack Principal:** Domínio de **Python** para automação, **SQL** para manipulação de grandes volumes de dados e **Streamlit** para criação de ferramentas internas rápidas.
+*   **Stack Principal:** **Python** para automação e **Streamlit** para criação de ferramentas internas rápidas.
 
 ---
 
